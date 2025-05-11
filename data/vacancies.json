@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/120353943",
+        "salary": 4000000,
+        "description": "Опыт работы с BI-системами (Power BI, Tableau, Metabase и др.). Базовые знания <highlighttext>Python</highlighttext> или R для анализа данных (желательно). "
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/120331701",
+        "salary": 0,
+        "description": "Опыт работы с <highlighttext>Python</highlighttext> от 1-го года . Опыт работы с одним или несколькими фреймворками: FastApi, Flask, Django, Django REST. "
+    },
+    {
+        "title": "Web-программист - стажер",
+        "url": "https://hh.ru/vacancy/118711736",
+        "salary": 0,
+        "description": "Carfast- Первый онлайн авто аукцион в Казахстане. Доброжелательный и целеустремленный командный игрок. Принимаете верные решения в критических ситуациях. "
+    },
+    {
+        "title": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/120205359",
+        "salary": 1000,
+        "description": "От 2 лет коммерческого опыта в backend-разработке на <highlighttext>Python</highlighttext>. Уверенные знания FastAPI, SQLAlchemy, Pydantic. Опыт работы с PostgreSQL, Redis..."
+    },
+    {
+        "title": "Middle Rust-разработчик",
+        "url": "https://hh.ru/vacancy/120357847",
+        "salary": 0,
+        "description": "Аргументация принятых решений в виде MD файликов или иной документации. Приятным плюсом будет: Опыт коммерческой разработки на <highlighttext>Python</highlighttext>. "
+    },
+    {
+        "title": "Заместитель директора департамента информационных технологий",
+        "url": "https://hh.ru/vacancy/120313069",
+        "salary": 300000,
+        "description": "Опыт работы с Wireguard, Ansible, Zabbix, Grafana, Terraform. Владение <highlighttext>Python</highlighttext> или опыт разработки скриптов для автоматизации. Понимание устройства Anycast-сетей..."
+    },
+    {
+        "title": "Front-End Developer",
+        "url": "https://hh.ru/vacancy/120350771",
+        "salary": 0,
+        "description": "5+ years of experience with Javascript. Strong knowledge of Angular, TypeScript/JavaScript. Experience and understanding of optimization principles. "
+    },
+    {
+        "title": "Аналитик в команду транспортной логистики",
+        "url": "https://hh.ru/vacancy/119894772",
+        "salary": 0,
+        "description": "Владение SQL на хорошем уровне (джойны, cte, оконные функции). Опыт использования <highlighttext>Python</highlighttext> для анализа данных будет плюсом (библиотеки для анализа..."
+    },
+    {
+        "title": "Тестировщик ПО (QA Engineer)",
+        "url": "https://hh.ru/vacancy/120300880",
+        "salary": 100000,
+        "description": "Опыт в ручном и автоматическом тестировании от 2 лет. Навыки автоматизации (<highlighttext>Python</highlighttext>/JavaScript + Selenium/Playwright/Cypress/Pytest). "
+    },
+    {
+        "title": "Junior backend разработчик",
+        "url": "https://hh.ru/vacancy/120288418",
+        "salary": 0,
+        "description": "Опыт на любом языке программирования, как: C, C++, C#, Java, Go и т.д. (приветствуется опыт на функциональных языках программирования). - "
+    }
+]
